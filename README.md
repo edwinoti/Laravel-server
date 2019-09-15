@@ -4,7 +4,8 @@ This is the server side api build using laravel framework
 
 
 Database.
-The sql database is found within the directory blogx.sql
+The sql database is found within the directory 
+    blogx.sql
 
 
 How to run the project
